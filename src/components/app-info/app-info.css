@@ -1,0 +1,24 @@
+.app-info {
+    padding: 25px;
+    background-color: rgb(139, 163, 210);
+    border-radius: 10px;
+    border:2px solid white;
+    box-shadow: 15px 15px 30px rgba(0,0,0, .15);
+    color: #fff;
+}
+
+
+.accounting-title {
+    text-align: center;
+    font-weight: bold;
+}
+
+.total-title {
+    font-size: 24px;
+    text-align: center;
+}
+
+.best-title {
+    font-size: 20px;
+    text-align: center;
+}
